@@ -1,10 +1,13 @@
 .DS_Store
 node_modules
 /dist
+.idea
+semantic
 
 # local env files
 .env.local
 .env.*.local
+semantic.json
 
 # Log files
 npm-debug.log*

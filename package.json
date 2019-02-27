@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "jquery": "^3.3.1",
+    "semantic-ui": "^2.4.2",
     "vue": "^2.6.6"
   },
   "devDependencies": {
