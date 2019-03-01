@@ -119,7 +119,7 @@
         },
         data() {
             return {
-                everan: 'Everan'
+                everan: 'Hello Laravel'
             }
         },
         mounted() {
