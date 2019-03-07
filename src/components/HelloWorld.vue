@@ -76,7 +76,7 @@
         <div class="ui labeled button" tabindex="0">
             <div class="ui basic blue button"><i class="fork icon"></i> Forks </div>
             <a class="ui basic left pointing blue label">
-                1,048
+                1,024
             </a>
         </div>
         <button class="ui positive basic button" @click="_modal">Modal</button>
